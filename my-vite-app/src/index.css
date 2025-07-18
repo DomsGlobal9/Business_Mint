@@ -1,7 +1,7 @@
-  /* ✅ Google Fonts imports MUST come first
-  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Playfair+Display:wght@700&family=Libertinus+Math&display=swap');
+  /* @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Playfair+Display:wght@700&family=Libertinus+Math&display=swap'); */
 
- 
-  @tailwind utilities; */
+ body{
+  background: rgba(16, 26, 30, 1);
+ }
 
   
